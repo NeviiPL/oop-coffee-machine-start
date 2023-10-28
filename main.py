@@ -22,3 +22,4 @@ while is_on:
             cost = drink.cost
             if money_machine_class.make_payment(cost):
                 coffeemaker_class.make_coffee(drink)
+test = True
